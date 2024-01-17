@@ -1,0 +1,50 @@
+com.qttask.app-jetified-activity-1.6.0-0 /home/vishalkumar/.gradle/caches/transforms-3/00162ffd33173c3befe867967c25be11/transformed/jetified-activity-1.6.0/res
+com.qttask.app-jetified-drawee-3.1.3-1 /home/vishalkumar/.gradle/caches/transforms-3/0559c8c49bc2e12a8500c390ceaa2fee/transformed/jetified-drawee-3.1.3/res
+com.qttask.app-recyclerview-1.1.0-2 /home/vishalkumar/.gradle/caches/transforms-3/0aa441928efb443d724034d605ef02cd/transformed/recyclerview-1.1.0/res
+com.qttask.app-jetified-flipper-0.201.0-3 /home/vishalkumar/.gradle/caches/transforms-3/0db2d3d098dc0c10a2d5e6caf9d6f3a2/transformed/jetified-flipper-0.201.0/res
+com.qttask.app-fragment-1.3.6-4 /home/vishalkumar/.gradle/caches/transforms-3/10a3f72966ac7ed22f2c15557b23ff50/transformed/fragment-1.3.6/res
+com.qttask.app-sqlite-framework-2.2.0-5 /home/vishalkumar/.gradle/caches/transforms-3/10fbe7a6f9b1b7f66255cc4a70ffe33f/transformed/sqlite-framework-2.2.0/res
+com.qttask.app-jetified-ucrop-2.2.6-native-6 /home/vishalkumar/.gradle/caches/transforms-3/1695f18e83cbfdbe64ef16eaae747b0e/transformed/jetified-ucrop-2.2.6-native/res
+com.qttask.app-sqlite-2.2.0-7 /home/vishalkumar/.gradle/caches/transforms-3/1a4a85bf029e772dbbd28dd92fbcb5ea/transformed/sqlite-2.2.0/res
+com.qttask.app-coordinatorlayout-1.2.0-8 /home/vishalkumar/.gradle/caches/transforms-3/1e2af68d43e25d67fe8388077ffa53e8/transformed/coordinatorlayout-1.2.0/res
+com.qttask.app-appcompat-1.6.1-9 /home/vishalkumar/.gradle/caches/transforms-3/254c92b14605e8d8227c551f4023fa6c/transformed/appcompat-1.6.1/res
+com.qttask.app-jetified-core-ktx-1.9.0-10 /home/vishalkumar/.gradle/caches/transforms-3/3155718f62eaefff89456cd0c777627c/transformed/jetified-core-ktx-1.9.0/res
+com.qttask.app-cardview-1.0.0-11 /home/vishalkumar/.gradle/caches/transforms-3/3352c5db7b880b56ec28c3a339aef51f/transformed/cardview-1.0.0/res
+com.qttask.app-jetified-play-services-basement-17.0.0-12 /home/vishalkumar/.gradle/caches/transforms-3/3f661606462e79f321db9f5f366ce539/transformed/jetified-play-services-basement-17.0.0/res
+com.qttask.app-jetified-savedstate-1.2.0-13 /home/vishalkumar/.gradle/caches/transforms-3/5b15e0a62b1ebbf829f4c56f20af5438/transformed/jetified-savedstate-1.2.0/res
+com.qttask.app-lifecycle-livedata-core-2.5.1-14 /home/vishalkumar/.gradle/caches/transforms-3/69f5302cc07ad42489856a73d09ecb17/transformed/lifecycle-livedata-core-2.5.1/res
+com.qttask.app-drawerlayout-1.1.1-15 /home/vishalkumar/.gradle/caches/transforms-3/718429f38261de2ecd426ad330d271b1/transformed/drawerlayout-1.1.1/res
+com.qttask.app-jetified-emoji2-views-helper-1.2.0-16 /home/vishalkumar/.gradle/caches/transforms-3/79bb7e86ffca4296036745ce5b29f3f2/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.qttask.app-core-1.9.0-17 /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/res
+com.qttask.app-jetified-tracing-1.1.0-18 /home/vishalkumar/.gradle/caches/transforms-3/875939ba3ade9fcfbbf84ab16c3e067d/transformed/jetified-tracing-1.1.0/res
+com.qttask.app-jetified-viewpager2-1.0.0-19 /home/vishalkumar/.gradle/caches/transforms-3/96e21850ed805a3b82ee6b6af08a77c5/transformed/jetified-viewpager2-1.0.0/res
+com.qttask.app-jetified-startup-runtime-1.1.1-20 /home/vishalkumar/.gradle/caches/transforms-3/97305c5f1b275fc0416c1948a9ca6dcb/transformed/jetified-startup-runtime-1.1.1/res
+com.qttask.app-jetified-play-services-base-17.0.0-21 /home/vishalkumar/.gradle/caches/transforms-3/993f9d15b80b5b4fc9211b5f8e7eb953/transformed/jetified-play-services-base-17.0.0/res
+com.qttask.app-jetified-annotation-experimental-1.3.0-22 /home/vishalkumar/.gradle/caches/transforms-3/a4355825aba7a0a020c55d83cb474575/transformed/jetified-annotation-experimental-1.3.0/res
+com.qttask.app-constraintlayout-2.0.1-23 /home/vishalkumar/.gradle/caches/transforms-3/a7f96603c14ce0f92387b8c3fe34849c/transformed/constraintlayout-2.0.1/res
+com.qttask.app-jetified-appcompat-resources-1.6.1-24 /home/vishalkumar/.gradle/caches/transforms-3/b319e410878596b512b44974f77cd25b/transformed/jetified-appcompat-resources-1.6.1/res
+com.qttask.app-transition-1.2.0-25 /home/vishalkumar/.gradle/caches/transforms-3/ba4d802115d82aed54f2e4676363c4e2/transformed/transition-1.2.0/res
+com.qttask.app-material-1.9.0-26 /home/vishalkumar/.gradle/caches/transforms-3/ca386870adb7a7fb29ce1bcc4426c7a9/transformed/material-1.9.0/res
+com.qttask.app-jetified-react-android-0.73.2-debug-27 /home/vishalkumar/.gradle/caches/transforms-3/d3394c4219bc5e5fdbf1f15a9a5035f1/transformed/jetified-react-android-0.73.2-debug/res
+com.qttask.app-swiperefreshlayout-1.1.0-28 /home/vishalkumar/.gradle/caches/transforms-3/d4f3c4b55d851160bd7f0373709e9a79/transformed/swiperefreshlayout-1.1.0/res
+com.qttask.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-29 /home/vishalkumar/.gradle/caches/transforms-3/dcd5bd7a13f18b633a713043c225731f/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
+com.qttask.app-jetified-emoji2-1.2.0-30 /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/res
+com.qttask.app-lifecycle-runtime-2.5.1-31 /home/vishalkumar/.gradle/caches/transforms-3/e9c687cd5765426d053ddd611e022392/transformed/lifecycle-runtime-2.5.1/res
+com.qttask.app-jetified-autofill-1.1.0-32 /home/vishalkumar/.gradle/caches/transforms-3/ea2bbfa4d16e249f3d97acf8ded3b01a/transformed/jetified-autofill-1.1.0/res
+com.qttask.app-jetified-lifecycle-process-2.4.1-33 /home/vishalkumar/.gradle/caches/transforms-3/efeb3860c0ce1d441c53f4f5542be231/transformed/jetified-lifecycle-process-2.4.1/res
+com.qttask.app-lifecycle-viewmodel-2.5.1-34 /home/vishalkumar/.gradle/caches/transforms-3/f45fdba9d1726e587dc4758a617deb6a/transformed/lifecycle-viewmodel-2.5.1/res
+com.qttask.app-pngs-35 /home/vishalkumar/Documents/My Work/qtTask/android/app/build/generated/res/pngs/debug
+com.qttask.app-resValues-36 /home/vishalkumar/Documents/My Work/qtTask/android/app/build/generated/res/resValues/debug
+com.qttask.app-packageDebugResources-37 /home/vishalkumar/Documents/My Work/qtTask/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.qttask.app-packageDebugResources-38 /home/vishalkumar/Documents/My Work/qtTask/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.qttask.app-merged_res-39 /home/vishalkumar/Documents/My Work/qtTask/android/app/build/intermediates/merged_res/debug
+com.qttask.app-debug-40 /home/vishalkumar/Documents/My Work/qtTask/android/app/src/debug/res
+com.qttask.app-main-41 /home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/res
+com.qttask.app-packaged_res-42 /home/vishalkumar/Documents/My Work/qtTask/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-43 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-bootsplash/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-44 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-device-info/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-45 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-get-location/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-46 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-47 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-48 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
+com.qttask.app-packaged_res-49 /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-vector-icons/android/build/intermediates/packaged_res/debug

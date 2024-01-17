@@ -1,0 +1,169 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.qttask"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:4:5-79
+12-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:4:22-76
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:5:5-64
+13-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->[:react-native-get-location] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+14-->[:react-native-get-location] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-78
+15
+16    <queries>
+16-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
+17        <intent>
+17-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
+18            <action android:name="android.media.action.IMAGE_CAPTURE" />
+18-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
+18-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
+19        </intent>
+20    </queries>
+21
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-81
+22-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-78
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+24    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+24-->[com.google.android.gms:play-services-iid:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/53cebb33b692adc9ed65ba90d8e75502/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+24-->[com.google.android.gms:play-services-iid:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/53cebb33b692adc9ed65ba90d8e75502/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+27        android:name="com.qttask.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.qttask.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+31    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+31-->[com.android.installreferrer:installreferrer:1.1.2] /home/vishalkumar/.gradle/caches/transforms-3/ae2504fd7ea229909f0dcbd455c56a1e/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+31-->[com.android.installreferrer:installreferrer:1.1.2] /home/vishalkumar/.gradle/caches/transforms-3/ae2504fd7ea229909f0dcbd455c56a1e/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+32
+33    <application
+33-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:7:5-26:19
+34        android:name="com.qttask.MainApplication"
+34-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:8:7-38
+35        android:allowBackup="false"
+35-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:12:7-34
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] /home/vishalkumar/.gradle/caches/transforms-3/85261eebb3ce3527d19a964860ba7c9d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+37        android:extractNativeLibs="true"
+38        android:icon="@mipmap/ic_launcher"
+38-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:10:7-41
+39        android:label="@string/app_name"
+39-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:9:7-39
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:11:7-52
+41        android:theme="@style/AppTheme" >
+41-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:13:7-38
+42        <activity
+42-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:14:7-25:18
+43            android:name="com.qttask.MainActivity"
+43-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:15:9-37
+44            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+44-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:17:9-118
+45            android:exported="true"
+45-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:20:9-32
+46            android:label="@string/app_name"
+46-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:16:9-41
+47            android:launchMode="singleTask"
+47-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:18:9-40
+48            android:windowSoftInputMode="adjustResize" >
+48-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:19:9-51
+49            <intent-filter>
+49-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:21:9-24:25
+50                <action android:name="android.intent.action.MAIN" />
+50-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:22:13-65
+50-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:22:21-62
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:23:13-73
+52-->/home/vishalkumar/Documents/My Work/qtTask/android/app/src/main/AndroidManifest.xml:23:23-70
+53            </intent-filter>
+54        </activity>
+55
+56        <provider
+56-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
+57            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+57-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
+58            android:authorities="com.qttask.provider"
+58-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
+59            android:exported="false"
+59-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+60            android:grantUriPermissions="true" >
+60-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
+61            <meta-data
+61-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
+62                android:name="android.support.FILE_PROVIDER_PATHS"
+62-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
+63                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+63-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
+64        </provider>
+65
+66        <activity
+66-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
+67            android:name="com.yalantis.ucrop.UCropActivity"
+67-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
+68            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+68-->[:react-native-image-crop-picker] /home/vishalkumar/Documents/My Work/qtTask/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
+69        <activity
+69-->[com.google.android.gms:play-services-base:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/993f9d15b80b5b4fc9211b5f8e7eb953/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+70            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+70-->[com.google.android.gms:play-services-base:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/993f9d15b80b5b4fc9211b5f8e7eb953/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+71            android:exported="false"
+71-->[com.google.android.gms:play-services-base:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/993f9d15b80b5b4fc9211b5f8e7eb953/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+72            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+72-->[com.google.android.gms:play-services-base:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/993f9d15b80b5b4fc9211b5f8e7eb953/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+73
+74        <meta-data
+74-->[com.google.android.gms:play-services-basement:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/3f661606462e79f321db9f5f366ce539/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+75            android:name="com.google.android.gms.version"
+75-->[com.google.android.gms:play-services-basement:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/3f661606462e79f321db9f5f366ce539/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+76            android:value="@integer/google_play_services_version" />
+76-->[com.google.android.gms:play-services-basement:17.0.0] /home/vishalkumar/.gradle/caches/transforms-3/3f661606462e79f321db9f5f366ce539/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+77
+78        <provider
+78-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+79            android:name="androidx.startup.InitializationProvider"
+79-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+80            android:authorities="com.qttask.androidx-startup"
+80-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+81            android:exported="false" >
+81-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+82            <meta-data
+82-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+83-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+84                android:value="androidx.startup" />
+84-->[androidx.emoji2:emoji2:1.2.0] /home/vishalkumar/.gradle/caches/transforms-3/e867ea1357cea16eda56d6b49ef37372/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+85            <meta-data
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/vishalkumar/.gradle/caches/transforms-3/efeb3860c0ce1d441c53f4f5542be231/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/vishalkumar/.gradle/caches/transforms-3/efeb3860c0ce1d441c53f4f5542be231/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+87                android:value="androidx.startup" />
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/vishalkumar/.gradle/caches/transforms-3/efeb3860c0ce1d441c53f4f5542be231/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+88        </provider>
+89
+90        <meta-data
+90-->[com.facebook.soloader:soloader:0.10.5] /home/vishalkumar/.gradle/caches/transforms-3/06483616819f42187f0919ff11bb9c28/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+91            android:name="com.facebook.soloader.enabled"
+91-->[com.facebook.soloader:soloader:0.10.5] /home/vishalkumar/.gradle/caches/transforms-3/06483616819f42187f0919ff11bb9c28/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+92            android:value="false" />
+92-->[com.facebook.soloader:soloader:0.10.5] /home/vishalkumar/.gradle/caches/transforms-3/06483616819f42187f0919ff11bb9c28/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+93    </application>
+94
+95</manifest>
